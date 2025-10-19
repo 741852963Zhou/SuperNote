@@ -1,0 +1,11 @@
+{
+  "editor:open-link-in-new-leaf": [],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ]
+}

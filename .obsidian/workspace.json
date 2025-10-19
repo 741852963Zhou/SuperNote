@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "831a5b8c27754521",
+    "type": "split",
+    "children": [
+      {
+        "id": "e31e76e1afe11c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feb34a16d4276d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目实践/苍穹外卖/公共字段自动填充/具体实现/6.ThreadLocal传递用户ID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.ThreadLocal传递用户ID"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83807102c431b007",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad9794d3a2c5cf3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58959ddd2d801a4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fcf59a0bedbd876d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a70578b94fdf1c88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8fa6b76f75f2c382",
+    "type": "split",
+    "children": [
+      {
+        "id": "e301864f7376ecc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "320dbaa9c6c00cf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "待记录.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "待记录 的反向链接列表"
+            }
+          },
+          {
+            "id": "9b9d2f89ec3078a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "待记录.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "待记录 的出链列表"
+            }
+          },
+          {
+            "id": "4f5aff13e55dca70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6c6c14b84379b2b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "待记录.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "待记录 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "floating": {
+    "id": "9904223cbd809bb3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a0d6bd40e4287494",
+        "type": "window",
+        "children": [
+          {
+            "id": "22dab10719cd264d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54bb9c371f3f052e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "待记录.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "待记录"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 671,
+        "y": 196,
+        "width": 697,
+        "height": 993,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "feb34a16d4276d5e",
+  "lastOpenFiles": [
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现/5.反射调用.md",
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现/4.实现AOP通知(before).md",
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现/6.ThreadLocal传递用户ID.md",
+    "知识库/spring框架/AOP(面向切面编程)/AOP (MOC).md",
+    "知识库/spring框架/AOP(面向切面编程)/AOP-核心概念(Aspect,Advice,Pointcut).md",
+    "知识库/spring框架/AOP(面向切面编程)/AOP-切点表达式(Pointcut).md",
+    "知识库/spring框架/AOP(面向切面编程)/AOP-通知(Advice).md",
+    "知识库/spring框架/AOP(面向切面编程)/AOP-JoinPoint与MethodSignature.md",
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现/3.定义AOP切面(Pointcut).md",
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现/2.定义枚举类OperationType.md",
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现/1.定义注解@AutoFill.md",
+    "待记录.md",
+    "项目实践/苍穹外卖/公共字段自动填充/需求分析.md",
+    "项目实践/苍穹外卖/公共字段自动填充/解决方案.md",
+    "知识库/java基础/Java-反射/Java-反射 (MOC).md",
+    "Java-反射.md",
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现/7.移除用户层重复代码.md",
+    "项目实践/苍穹外卖/公共字段自动填充/实现 (MOC).md",
+    "知识库/java基础/Java-注解(Annotation)/Java-注解-元注解.md",
+    "java-反射(MOC).md",
+    "知识库/java基础/Java-反射/Java-反射-Class对象.md",
+    "知识库/java基础/Java-反射/Java-反射-Field对象.md",
+    "知识库/java基础/Java-反射/Java-反射-Method对象.md",
+    "知识库/java基础/Java-反射",
+    "知识库/java基础/ThreadLocal.md",
+    "知识库/java基础/Java-注解(Annotation)/Java-注解-自定义注解.md",
+    "知识库/java基础/Java-注解(Annotation)/Java-注解 (MOC).md",
+    "知识库/java基础/Java-注解(Annotation)",
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现",
+    "项目实践/苍穹外卖/公共字段自动填充",
+    "知识库/java基础",
+    "知识库/spring框架/AOP(面向切面编程)",
+    "知识库/spring框架/aop",
+    "未命名",
+    "知识库/spring框架",
+    "知识库",
+    "图片/Pasted image 20241229210554.png",
+    "图片/Pasted image 20241229205853.png",
+    "图片/Pasted image 20241229205637.png",
+    "图片/Pasted image 20241229205815.png",
+    "图片/Pasted image 20241229210349.png",
+    "图片/Pasted image 20241229195828.png",
+    "图片/Pasted image 20241229195916.png",
+    "Pasted image 20241229195614.png",
+    "Pasted image 20241229195544.png",
+    "Pasted image 20241229195642.png",
+    "未命名.canvas"
+  ]
+}
