@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目实践/苍穹外卖/公共字段自动填充/具体实现/6.ThreadLocal传递用户ID.md",
+                "file": "待办.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.ThreadLocal传递用户ID"
+              "title": "待办"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 234.5
   },
   "right": {
     "id": "8fa6b76f75f2c382",
@@ -197,15 +197,44 @@
                   "icon": "lucide-file",
                   "title": "待记录"
                 }
+              },
+              {
+                "id": "ed08476a5f55a436",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "待办.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "待办"
+                }
+              },
+              {
+                "id": "387b815798a30b7f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gemini笔记prompt.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Gemini笔记prompt"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 671,
-        "y": 196,
-        "width": 697,
-        "height": 993,
+        "x": 2482,
+        "y": 54,
+        "width": 711,
+        "height": 1001,
         "maximize": false,
         "zoom": 0
       }
@@ -213,33 +242,33 @@
   },
   "active": "feb34a16d4276d5e",
   "lastOpenFiles": [
-    "项目实践/苍穹外卖/公共字段自动填充/具体实现/5.反射调用.md",
-    "项目实践/苍穹外卖/公共字段自动填充/具体实现/4.实现AOP通知(before).md",
-    "项目实践/苍穹外卖/公共字段自动填充/具体实现/6.ThreadLocal传递用户ID.md",
-    "知识库/spring框架/AOP(面向切面编程)/AOP (MOC).md",
-    "知识库/spring框架/AOP(面向切面编程)/AOP-核心概念(Aspect,Advice,Pointcut).md",
+    "待记录.md",
     "知识库/spring框架/AOP(面向切面编程)/AOP-切点表达式(Pointcut).md",
+    "待办.md",
     "知识库/spring框架/AOP(面向切面编程)/AOP-通知(Advice).md",
     "知识库/spring框架/AOP(面向切面编程)/AOP-JoinPoint与MethodSignature.md",
+    "知识库/spring框架/AOP(面向切面编程)/AOP-核心概念(Aspect,Advice,Pointcut).md",
+    "Gemini笔记prompt.md",
+    "知识库/spring框架/AOP(面向切面编程)/AOP (MOC).md",
+    "知识库/java基础/Java-反射/Java-反射-Field对象.md",
+    "知识库/java基础/Java-反射/Java-反射-Method对象.md",
+    "知识库/java基础/Java-反射/Java-反射 (MOC).md",
+    "知识库/java基础/Java-反射/Java-反射-Class对象.md",
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现/5.反射调用.md",
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现/4.实现AOP通知(before).md",
+    "知识库/java基础/Java-注解(Annotation)/Java-注解-元注解.md",
+    "知识库/java基础/Java-注解(Annotation)/Java-注解-自定义注解.md",
+    "知识库/java基础/Java-注解(Annotation)/Java-注解 (MOC).md",
+    "知识库/java基础/ThreadLocal.md",
+    "知识库/java基础/Java-枚举(Enum).md",
+    "项目实践/苍穹外卖/公共字段自动填充/需求分析.md",
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现/7.移除用户层重复代码.md",
+    "项目实践/苍穹外卖/公共字段自动填充/具体实现/6.ThreadLocal传递用户ID.md",
     "项目实践/苍穹外卖/公共字段自动填充/具体实现/3.定义AOP切面(Pointcut).md",
     "项目实践/苍穹外卖/公共字段自动填充/具体实现/2.定义枚举类OperationType.md",
     "项目实践/苍穹外卖/公共字段自动填充/具体实现/1.定义注解@AutoFill.md",
-    "待记录.md",
-    "项目实践/苍穹外卖/公共字段自动填充/需求分析.md",
     "项目实践/苍穹外卖/公共字段自动填充/解决方案.md",
-    "知识库/java基础/Java-反射/Java-反射 (MOC).md",
-    "Java-反射.md",
-    "项目实践/苍穹外卖/公共字段自动填充/具体实现/7.移除用户层重复代码.md",
-    "项目实践/苍穹外卖/公共字段自动填充/实现 (MOC).md",
-    "知识库/java基础/Java-注解(Annotation)/Java-注解-元注解.md",
-    "java-反射(MOC).md",
-    "知识库/java基础/Java-反射/Java-反射-Class对象.md",
-    "知识库/java基础/Java-反射/Java-反射-Field对象.md",
-    "知识库/java基础/Java-反射/Java-反射-Method对象.md",
     "知识库/java基础/Java-反射",
-    "知识库/java基础/ThreadLocal.md",
-    "知识库/java基础/Java-注解(Annotation)/Java-注解-自定义注解.md",
-    "知识库/java基础/Java-注解(Annotation)/Java-注解 (MOC).md",
     "知识库/java基础/Java-注解(Annotation)",
     "项目实践/苍穹外卖/公共字段自动填充/具体实现",
     "项目实践/苍穹外卖/公共字段自动填充",
